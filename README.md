@@ -18,4 +18,6 @@ Mine clearance under windows platform
 8.协议：
 
 <<<--------->>>
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://raw.github.com/TomPlayBoy/MineSweeper/master/readme/readme/result.jpg)
+
+
