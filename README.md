@@ -18,6 +18,6 @@ Mine clearance under windows platform
 8.协议：
 
 <<<--------->>>
-
+![效果图](readme/result.jpg)
 
 
