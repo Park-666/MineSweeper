@@ -1,6 +1,4 @@
 # MineSweeper
-Mine clearance under windows platform
-项目的概述，如项目的介绍、代码实现的功能、系统环境参数、部署要素等。
 1.项目简介：windows下的扫雷小游戏。
 
 2.功能特性：
