@@ -16,3 +16,6 @@ Mine clearance under windows platform
 7.声明：
 
 8.协议：
+
+<<<--------->>>
+![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
