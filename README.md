@@ -14,7 +14,7 @@
   
   ![示例1](readme/temp.gif)  
   
-  ***3.在你有安装<font color=gray size=5>>Qt Creator 4.2.1</font>的前提下，直接双击MineSweeper.por这个文件，会出现下面界面。***
+  3.在你有安装<font color=gray size=5>Qt Creator 4.2.1</font>的前提下，直接双击MineSweeper.por这个文件，会出现下面界面。
   
   ![示例2](readme/temp1.jpg.png)  
   
