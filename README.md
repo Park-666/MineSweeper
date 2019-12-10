@@ -16,19 +16,19 @@
   
   ***3.在你有安装Qt Creator 4.2.1的前提下，直接双击MineSweeper.por这个文件，会出现下面界面。***
   
-  ![示例2](readme/temp1.jpg)  
+  ![示例2](readme/temp1.jpg.png)  
   
   ***4.点击详情后取消Realease和Profile***
   
-  ![示例2](readme/temp2.jpg)  
+  ![示例2](readme/temp2.jpg.png)  
   
   ***5.点击界面桌面左下角的绿色播放按钮，等待几分钟***
   
-  ![示例3](readme/temp3.jpg)  
+  ![示例3](readme/temp3.jpg.png)  
   
   ***6.然后就开始游戏吧***
   
-  ![示例4](readme/temp4.jpg)  
+  ![示例4](readme/temp4.jpg.png)  
 
 5.目录结构描述：
 
